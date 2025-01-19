@@ -25,7 +25,8 @@ export default function GenerateBtn() {
             transition-all duration-500' 
             onClick={handleGenerateClick}
         >
-            Create visuals
+            
+            Create Visuals
             <img className='h-6' src={assets.star_group} alt="star group"/>
         </button>
     </div>
