@@ -12,11 +12,18 @@ export default function Description() {
         <img className='w-80 xl:w-96 rounded-lg' src={assets.sample_img_1}/>
         <div>
             <h2 className='text-3xl font-medium max-w-lg mb-4'>YOU IMAGINE. WE CREATE.</h2>
-            <p className='text-gray-600 mb-4'>Easily bring your ideas to life with our free
-                AI image generator. Whether you need stunnning
-                visuals or unique imagery, our tool transforms your
-                text into eye-catching images with just a few clicks.
-                Imagine it, describe it, and watch it come to life instantly.
+                        <p 
+            className='text-gray-600 mb-4'
+            style={{ fontFamily: "'Inter', sans-serif" }}
+            >Welcome to Imagino, your gateway to transforming text into stunning visuals.
+            Unleash your creativity and watch your words come to life with our powerful 
+            AI-driven text-to-image generator. Simply type in any description, from a 
+            fantastical scene in a faraway land to a photorealistic image of an everyday 
+            object, and Imagino will generate unique and captivating images based on 
+            your input. Whether you're a designer seeking inspiration, a writer looking to
+            visualize your stories, or simply someone who enjoys exploring the 
+            intersection of language and art, Imagino provides an intuitive and accessible
+            platform for creating compelling visual content.
             </p>
             <p className='text-gray-600'>
                 Simply type in a text prompt, and our cutting edge
