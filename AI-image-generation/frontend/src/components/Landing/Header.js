@@ -39,7 +39,7 @@ export default function Header() {
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.7, delay: 0.4 }}
       >
-        Turn text to <span className='text-orange-600 font-medium'>image</span>, in seconds
+        YOU IMAGINE.  <span className='text-blue-600 font-medium'>WE CREATE.</span>
       </motion.h1>
       
       <motion.p
@@ -105,7 +105,7 @@ export default function Header() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.9, delay: 1 }}
       >
-        Generated images from Pictora
+        Generated images from Imagino
       </motion.p>
     </motion.div>
   );
