@@ -29,7 +29,7 @@ export default function Header() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
-        <p>Enter your vision...</p>
+        <p>What should we generate?</p>
         <img src={assets.star_icon} alt="Star Icon" />
       </motion.div>
       
