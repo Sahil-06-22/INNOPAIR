@@ -103,7 +103,7 @@ export default function Header() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.9, delay: 1 }}
       >
-        Generated images from Imagino
+        Generated images from IMAGINO
       </motion.p>
     </motion.div>
   );
