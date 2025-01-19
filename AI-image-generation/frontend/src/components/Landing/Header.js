@@ -60,7 +60,7 @@ export default function Header() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.7, delay: 0.8 }}
       >
-        Generate Images
+        Generate Visuals
         <motion.img
           className='h-6'
           src={assets.star_group}
