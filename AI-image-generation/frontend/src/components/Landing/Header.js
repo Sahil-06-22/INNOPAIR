@@ -48,9 +48,7 @@ export default function Header() {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8, delay: 0.6 }}
       >
-        Unleash your creativity with AI. Turn your imagination 
-        into visual art in seconds - just type, and watch the magic
-        happen.
+        From text to masterpiece—turn your thoughts into visual art instantly.
       </motion.p>
       
       <motion.button
