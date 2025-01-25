@@ -110,9 +110,3 @@ Welcome to the AI SaaS application repository! This project is a full-stack AI-p
    cd frontend
    npm run build
    ```
-
-## Contact
-For any questions or inquiries, please feel free to reach out:
-- **Email**: uipathcommunitykiit@gmail.com
-- **Website**: [www.usckiit.in](https://www.usckiit.in)
-- **GitHub**: [usckiit](https://github.com/UiPathkiit)
